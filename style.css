@@ -1,0 +1,76 @@
+/* navbarrrrrrrr*/
+@import url("https://fonts.googleapis.com/css2?family=Poiret+One&display=swap");
+
+*{
+  font-family: "Poiret One";
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+}
+html{
+  scroll-behavior: smooth;
+  font-size: 25px;
+  font-weight: bold;
+}
+.nav-list li
+{
+ list-style-type: none;
+ 
+}
+.nav-list li a{
+  text-decoration: none;
+  padding: 10px;
+  color: white;
+}
+.nav-list{
+  display: flex;
+  text-align: right;
+  background-color: #333;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #333;
+  
+  
+}
+
+img{
+  height: 100px;
+  width: 100px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #fff;
+  border-radius: 100px;
+}
+a:link{
+  text-align: right;
+  color: white;
+}
+a:visited{
+  color: white;
+}
+
+/*welcomeeeeeeeee*/
+.w{
+  background-image: url(img/w1);
+  height: 150px;
+  color: white;
+  text-align: center;
+  margin-top: 0%;
+  border-width: 3px;
+  border-color: white;
+  border-style: solid;
+ 
+}
+
+
+
+/*main parttttt*/
+
+#center{
+  text-align: center;
+  text-decoration: underline;
+}
+
+
+
+
